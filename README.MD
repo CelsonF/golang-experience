@@ -1,4 +1,4 @@
-# Mercado Livre - Go Lang
+# Go Lang
 
 ## Getting Started
 
